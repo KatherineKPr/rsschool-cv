@@ -83,3 +83,13 @@ I have no experience in projects yet.
 * Arduino classes[^arduino]
 [^arduino]: *2018-2019 Epam laboratory ( BSUIR )*
 * *[HTML5 Tutorial](https://www.w3schools.com/html/default.asp)*
+
+## 8. English 
+
+**Level: B2**[^level]
+[^level]: *Upper Intermediate*
+* Studied English at :
+    * school
+    * 1st year of the University
+* *[Streamline](https://str.by)*[^english]
+[^english]: *2015-2017*
