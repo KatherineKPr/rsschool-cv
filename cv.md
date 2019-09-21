@@ -65,3 +65,11 @@ static Fraction add( Fraction first_fraction, Fraction second_fraction ) {
       first_fraction.divisor * second_fraction.divisor ); 
   }
 ```
+
+## 6. Experience
+
+Web-courses:
+* [htmlacademy](https://htmlacademy.ru/courses)
+* [codecademy](https://www.codecademy.com/learn)
+
+I have no experience in projects yet.
