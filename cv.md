@@ -73,3 +73,13 @@ Web-courses:
 * [codecademy](https://www.codecademy.com/learn)
 
 I have no experience in projects yet.
+
+## 7. Education
+
+* Java courses [^java]
+[^java]: *2016-2017 BSU*
+* C/C++ lectures[^c]
+[^c]: *2018-nowadays BSUIR*
+* Arduino classes[^arduino]
+[^arduino]: *2018-2019 Epam laboratory ( BSUIR )*
+* *[HTML5 Tutorial](https://www.w3schools.com/html/default.asp)*
