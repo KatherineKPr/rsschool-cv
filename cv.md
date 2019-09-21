@@ -78,20 +78,15 @@ I have no experience in projects yet.
 
 ## 7. Education
 
-* Java courses [^java]
-[^java]: *2016-2017 BSU*
-* C/C++ lectures[^c]
-[^c]: *2018-nowadays BSUIR*
-* Arduino classes[^arduino]
-[^arduino]: *2018-2019 Epam laboratory ( BSUIR )*
+* Java courses (*2016-2017 BSU*)
+* C/C++ lectures (*2018-nowadays BSUIR*)
+* Arduino classes (*2018-2019 Epam laboratory ( BSUIR )*)
 * *[HTML5 Tutorial](https://www.w3schools.com/html/default.asp)*
 
 ## 8. English 
 
-**Level: B2**[^level]
-[^level]: *Upper Intermediate*
+**Level: B2** (*Upper Intermediate*)
 * Studied English at :
     * school
     * 1st year of the University
-* *[Streamline](https://str.by)*[^english]
-[^english]: *2015-2017*
+* *[Streamline](https://str.by)* (*2015-2017*)   
