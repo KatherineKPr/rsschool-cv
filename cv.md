@@ -43,3 +43,25 @@ Also I consider it necessary to note that it won't be a problem for me to __*wor
 * Visual Studio / Visual Studio Code
 * Eclipse
 * Arduino 
+
+## 5. Code examples
+### C 
+```C
+bool is_letter(char *str) {
+  int i;
+  for (i = 0; i < strlen(str); i++) {
+    if (!isalpha(str[i])) {
+      printf("   symbol %c isn't a letter! try again \n ", str[i]);
+      return true;
+    }
+  }
+  return false;
+}
+```
+### Java
+```Java
+static Fraction add( Fraction first_fraction, Fraction second_fraction ) { 
+    return new Fraction( first_fraction.divisible * second_fraction.divisor + second_fraction.divisible * first_fraction.divisor,
+      first_fraction.divisor * second_fraction.divisor ); 
+  }
+```
