@@ -30,3 +30,16 @@ Also I consider it necessary to note that it won't be a problem for me to __*wor
 
 ### **My motto:**
 > Forward and only forward!
+
+## 4. Skills
+
+### Technologies
+* Java 
+* C/C++ 
+* HTML/CSS 
+### Version Control
+* Git
+### IDE
+* Visual Studio / Visual Studio Code
+* Eclipse
+* Arduino 
