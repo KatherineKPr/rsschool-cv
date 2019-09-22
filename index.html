@@ -67,7 +67,46 @@
             <td>Arduino</td>
           </tr>
         </table>
+        
+        <h2>Code examples</h2>
+        <h3>C</h3>
+        <pre>
+        bool is_letter(char *str) {
+          int i;
+          for (i = 0; i &lt; strlen(str); i++) {
+            if (!isalpha(str[i])) {
+              printf("   symbol %c isn't a letter! try again \n ", str[i]);
+              return true;
+            }
+          }
+          return false;
+        }
+        </pre>
+        <h3>Java</h3>
+        <pre>
+        static Fraction add( Fraction first_fraction, Fraction second_fraction ) { 
+            return new Fraction( first_fraction.divisible * second_fraction.divisor +
+            second_fraction.divisible * first_fraction.divisor,
+            first_fraction.divisor * second_fraction.divisor ); 
+        }
+        </pre>   
   
+        <h2>Experience</h2>
+        <h3>Web-courses:</h3>
+        <ul>
+          <li><a href="https://htmlacademy.ru/courses">htmlacademy</a> </li>
+          <li><a href="https://www.codecademy.com/learn">codecademy</a></li>
+        </ul>
+        <p>I have no experience in projects yet.</p>
+  
+        <h2>Education</h2>
+        <ul>
+          <li>Java courses (2016-2017 BSU)</li>
+          <li>C/C++ lectures (2018-nowadays BSUIR)</li>
+          <li>Arduino classes (2018-2019 Epam laboratory ( BSUIR ))</li>
+          <li><a href="https://www.w3schools.com/html/default.asp">HTML5 Tutorial</a>  </li>
+        </ul>
+    
     
   </body>
 
